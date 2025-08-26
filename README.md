@@ -70,7 +70,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 - Fill in the required variables into your hosting site for bot to work.
  </h2>
      
-Carlos13vip 
+
     
  
 
